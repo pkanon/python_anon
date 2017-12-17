@@ -1,0 +1,29 @@
+Anaconda install
+Anaconda navigator
+data training
+https://github.com/kwarodom/pea_python_training
+download Zip
+
+python path   C:\user\472029\AppData\local\continuum\anaconda3  Run xxx.py Run on path of add path env
+
+INSTALL pip
+iNSTALL FROM CODE COMMAND
+!pip install plotly
+!pip install cufflinks
+numpy
+sciPy
+panda
+matplotlib
+
+OCR
+https://www.programmableweb.com/
+https://www.getpostman.com/
+qOfadEpGd9tl1EPivR5r0Gj57JgKyjCMoL75GCEv      NREL
+https://developer.nrel.gov/api/alt-fuel-stations/v1.json?fuel_type=E85,ELEC&state=CA&limit=2&api_key=qOfadEpGd9tl1EPivR5r0Gj57JgKyjCMoL75GCEv&format=JSON
+Smart meter API
+https://cplservice.com/apixmobile.php/cpletrix?filter=device_id,eq,699639095&order=trans_id,desc&page=1
+import module
+module.__doc__  help
+pycharm IDE
+paw  test Json
+udemy
